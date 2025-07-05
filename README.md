@@ -16,6 +16,11 @@
   </a>
 </p>
 
+<p align="center">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gnana70&show_icons=true)
+</p>
+
+
 ---
 
 ### 🧑‍💻 About Me
