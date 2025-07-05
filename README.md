@@ -16,9 +16,7 @@
   </a>
 </p>
 
-<p align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gnana70&show_icons=true)
-</p>
+
 
 
 ---
@@ -90,6 +88,10 @@
 <p align="center">
   <em>“Turning ideas into scalable AI solutions.”</em>
 </p>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gnana70&show_icons=true)
+
 
 <!--
 Notable skills: GenAI, LLM, RAG, OCR, CV/NLP, Python, FastAPI, AWS, Azure, Open Source
