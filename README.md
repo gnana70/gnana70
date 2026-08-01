@@ -55,9 +55,11 @@ Created a production OCR engine that replaced AWS Textract while preserving ente
 
 Making machines read the language I grew up with. Tamil OCR recognizes natural-scene text—including tilted signboards, storefronts, and nameplates—with **>95% Tamil** and **>98% English** accuracy.
 
-[![Tamil OCR](https://github-readme-stats.vercel.app/api/pin/?username=gnana70&repo=tamil_ocr&theme=transparent&hide_border=true)](https://github.com/gnana70/tamil_ocr)
+[![View Tamil OCR](https://img.shields.io/badge/View_Tamil_OCR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gnana70/tamil_ocr)
+[![GitHub stars](https://img.shields.io/github/stars/gnana70/tamil_ocr?style=for-the-badge&logo=github&label=Stars)](https://github.com/gnana70/tamil_ocr/stargazers)
+[![PyPI](https://img.shields.io/pypi/v/ocr-tamil?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI)](https://pypi.org/project/ocr-tamil/)
 
-Also available on PyPI as [`ocr-tamil`](https://pypi.org/project/ocr-tamil/).
+Install from PyPI: [`ocr-tamil`](https://pypi.org/project/ocr-tamil/).
 
 ## What I work with
 
