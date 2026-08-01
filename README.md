@@ -1,99 +1,91 @@
-<!--
-🌟 Welcome to GNANA PRASATH's GitHub Profile 🌟
--->
+<div align="center">
 
-<h1 align="center">Hi, I'm Gnana Prasath</h1>
-<h3 align="center">Lead Data Scientist | Deep Learning, Generative AI, Computer Vision, NLP</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/gnana-prasath/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gnana70@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gnana70@gmail.com-red?logo=gmail" alt="Email" />
-  </a>
-  <a href="https://github.com/gnana70" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-gnana70-black?logo=github" alt="GitHub" />
-  </a>
-</p>
+# Gnana Prasath
 
+### Lead Data Scientist · Production AI Systems · Chennai, India
 
+I turn ambitious AI ideas into systems that perform—accurate, fast, explainable, and economically sound.
 
+[![Portfolio](https://img.shields.io/badge/Explore_my_portfolio-111827?style=for-the-badge&logo=safari&logoColor=white)](https://gnana-prasath-ai.gnana70.chatgpt.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnana-prasath/)
+[![Email](https://img.shields.io/badge/Start_a_conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnana70@gmail.com)
+[![YouTube](https://img.shields.io/badge/Singularity_Feed-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@singularityfeed)
 
----
+</div>
 
-### 🧑‍💻 About Me
+## Research matters. Reality decides.
 
-- 💼 **Lead Data Scientist** at Yubi, Chennai, India
-- 🎯 9+ years building scalable, end-to-end deep learning solutions in computer vision and NLP
-- 🤖 Passionate about Generative AI, LLMs, Document AI, and deploying real-world ML products
-- 🏆 Proven track record delivering ML and GenAI projects under tight deadlines through strategic planning and cross-functional collaboration
+For a decade, I have built production intelligence across **Generative AI, Document AI, computer vision, and NLP**—from first principles to global rollout. I currently lead enterprise AI programs at **Yubi**, connecting product strategy, research, engineering, and measurable business outcomes.
 
----
+| Production signal | Measured impact |
+|---|---:|
+| Annualized cost savings engineered | **$620K+** |
+| KYC and financial extraction accuracy | **99%** |
+| Latency across a seven-model KYC stack | **< 0.5 sec** |
+| Throughput on a single CPU core | **500K requests/day** |
 
-### 🚀 Skills & Tech
+## Systems shipped
 
-- **Languages**: Python
-- **Backend**: FastAPI, Django Rest Framework
-- **Databases**: PostgreSQL
-- **Cloud Platforms**: AWS, Azure
-- **Expertise**: OCR, Document AI, Generative AI, LLMs, Retrieval-Augmented Generation (RAG), Deep Learning, NLP
+### OptimaAI · Financial intelligence
 
----
+Built and operationalized a retrieval-augmented platform that turns dense Indian corporate and financial data into decision-ready answers using natural language.
 
-### 🏢 Work Highlights
+### Global bank-statement extraction · Document AI
 
-**Yubi (Lead Data Scientist, 2022–Present)**
-- Led all Computer Vision initiatives, projects & POCs for Yubi Group
-- Developed a template-agnostic bank statement extraction system (deployed across India, Sri Lanka, Middle East)
-- Fine-tuned Llama 3.2 1B for entity extraction in financial documents
-- Built a custom OCR solution saving $10K+/month compared to AWS Textract
-- Designed a KYC extraction system (7 deep learning models, >99% accuracy, <0.5 sec latency, half a million documents/day, $0.5M/year cost saving)
-- Engineered a scalable form recognition engine (Vision-Language Transformer/Donut, >90% accuracy, 20K+ PDFs/day)
-- Delivered a CPU-only captcha resolver (5+ lakh captchas/day)
+Developed a template-agnostic platform with **95% extraction accuracy**, deployed across Europe, the Middle East, East Asia, India, and Sri Lanka.
 
-**TheMathCompany (Senior Associate - Data Science)**
-- Led a 10-member team for payment recommendation in the auto industry
-- Built price elasticity and optimization frameworks, Airflow ML pipelines
+### Seven models, one decisive KYC system
 
-**Accenture (App Dev Senior Analyst)**
-- Engineered ML-powered resource planners, classifier chains, Flask APIs
-- Recognized as "Automation Prime certified in AI & Analytics"
+Designed an end-to-end identity extraction stack delivering **99%+ accuracy**, sub-half-second latency, and roughly **$500K in annual savings**.
 
----
+### OCR rebuilt for ownership
 
-### 🌐 Open Source & Community
+Created a production OCR engine that replaced AWS Textract while preserving enterprise-grade scale and precision—saving approximately **$120K every year**.
 
-- 🏅 Built a state-of-the-art **Tamil Text Recognition model** (360° natural scene reading, outperforms Tesseract, PaddleOCR, EasyOCR)
-  - [GitHub repo: tamil_ocr](https://github.com/gnana70/tamil_ocr)
-  - [PyPI: ocr_tamil](https://pypi.org/project/ocr-tamil/)
-- 📄 **Published:** "Pharmaceutical inspection using machine vision" (Journal of Advanced Research in Dynamical and Control Systems, Jan 2017)
+### More production work
 
----
+- Fine-tuned **Llama 3.2 1B** for entity extraction from financial documents.
+- Built a **Vision-Language Transformer / Donut** form-recognition engine with **>90% accuracy** across **20K+ PDFs per day**.
+- Delivered a CPU-only CAPTCHA resolver processing **500K+ requests per day**.
+- Built price-elasticity and optimization frameworks backed by production **Airflow** ML pipelines.
 
-### 📚 Education
+## Open source spotlight
 
-- **B.E. Mechatronics**, Kumaraguru College of Technology (2012–2016)
-- **Higher Secondary (Science, 95%)**, SRC Memorial Matriculation School
+### [Tamil OCR](https://github.com/gnana70/tamil_ocr) · தமிழ் வாழ்க
 
----
+Making machines read the language I grew up with. Tamil OCR recognizes natural-scene text—including tilted signboards, storefronts, and nameplates—with **>95% Tamil** and **>98% English** accuracy.
 
-### 💬 Let's Connect!
+[![Tamil OCR](https://github-readme-stats.vercel.app/api/pin/?username=gnana70&repo=tamil_ocr&theme=transparent&hide_border=true)](https://github.com/gnana70/tamil_ocr)
 
-- 📫 Reach me at **gnana70@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/gnana-prasath/)
-- 🏠 [GitHub](https://github.com/gnana70)
+Also available on PyPI as [`ocr-tamil`](https://pypi.org/project/ocr-tamil/).
 
----
+## What I work with
 
-<p align="center">
-  <em>“Turning ideas into scalable AI solutions.”</em>
-</p>
+`Python` · `PyTorch` · `Transformers` · `LLMs` · `RAG` · `OCR` · `Document AI` · `Computer Vision` · `NLP` · `FastAPI` · `Django REST Framework` · `PostgreSQL` · `AWS` · `Azure` · `MLOps`
 
+## Career trajectory
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gnana70&show_icons=true)
+- **Lead Data Scientist · Yubi · 2022—Now**  
+  Leading enterprise GenAI, computer vision, and NLP programs from product strategy to production.
+- **Senior Associate, Data Science · TheMathCompany · 2020—2022**  
+  Led a 10-person data science team delivering automotive payment recommendation systems.
+- **Application Development Senior Analyst · Accenture · 2016—2020**  
+  Built predictive ML systems for resource planning, public safety, and equipment reliability.
+- **B.E. Mechatronics · Kumaraguru College of Technology · 2012—2016**
 
+## Beyond the code
 
-<!--
-Notable skills: GenAI, LLM, RAG, OCR, CV/NLP, Python, FastAPI, AWS, Azure, Open Source
-Open for collaborations & discussions on ML, AI, and automation!
--->
+- Published **“Pharmaceutical inspection using machine vision”** in the *Journal of Advanced Research in Dynamical and Control Systems* (2017).
+- Earned Accenture’s **Automation Prime certification in AI & Analytics**.
+- Share ideas and experiments through [Singularity Feed](https://www.youtube.com/@singularityfeed).
+- Open to conversations about applied AI, Document AI, responsible automation, and building systems that earn their place.
+
+<div align="center">
+
+### Let’s build intelligence that earns its place.
+
+[Portfolio](https://gnana-prasath-ai.gnana70.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/gnana-prasath/) · [Email](mailto:gnana70@gmail.com) · [GitHub](https://github.com/gnana70)
+
+![Profile views](https://komarev.com/ghpvc/?username=gnana70&style=flat-square&color=111827)
+
+</div>
