@@ -2,7 +2,7 @@
 
 # Gnana Prasath
 
-### Lead Data Scientist · Production AI Systems · Chennai, India
+### Senior Manager · Production AI Systems · Chennai, India
 
 I turn ambitious AI ideas into systems that perform—accurate, fast, explainable, and economically sound.
 
